@@ -1,4 +1,4 @@
-Bank Management System
+#Bank Management System
 Bank Management System project is written in Python. The project file contains a python script (main.py) and a database file.
 This is a simple console based system which is very easy to understand and use. Talking about the system,
 it contains all the basic functions which include 
